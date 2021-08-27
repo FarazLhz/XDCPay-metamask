@@ -298,6 +298,9 @@
   "cancelled": {
     "message": "Cancelled"
   },
+  "cautionText": {
+    "message": "These 12 words are the only way to restore your XDCPay accounts. Save them somewhere safe and secret."
+  },
   "chainId": {
     "message": "Chain ID"
   },
@@ -452,6 +455,9 @@
   },
   "copiedExclamation": {
     "message": "Copied!"
+  },
+  "copiedSomwhereSafe": {
+    "message": "I have copied it somewhere safe"
   },
   "copiedTransactionId": {
     "message": "Copied Transaction ID"
@@ -1752,6 +1758,9 @@
   "rpcUrl": {
     "message": "New RPC URL"
   },
+  "sampleSeedPhrase": {
+    "message": "clean test satoshi fiscal street round Ship icecream fabric stamp mouse light"
+  },
   "save": {
     "message": "Save"
   },
@@ -2660,6 +2669,9 @@
   },
   "userName": {
     "message": "Username"
+  },
+  "vaultCreated": {
+    "message": "Vault Created"
   },
   "verifyThisTokenDecimalOn": {
     "message": "Token decimal can be found on $1",

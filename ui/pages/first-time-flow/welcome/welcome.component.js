@@ -51,7 +51,7 @@ export default class Welcome extends PureComponent {
             height="125"
           /> */}
           <div className="XDC-logo">
-            <img src="D:\LwHz\HXdc-metamask\XDCPay-metamask\app\images\XDCPay.svg"></img>
+            <img src="/images/Assets/XDCPay.svg"></img>
           </div>
           <div className="welcome-page__header">{t('termsOfUse')}</div>
           <div className="welcome-page__description">

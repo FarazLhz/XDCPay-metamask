@@ -40,7 +40,7 @@ export default class SelectAction extends PureComponent {
     return (
       <div className="select-action">
         <div className="XDC-logo">
-          <img src="D:\LwHz\HXdc-metamask\XDCPay-metamask\app\images\XDCPay.svg"></img>
+          <img src="/images/Assets/XDCPay.svg"></img>
         </div>
         <div className="den-container">
           <div className="encrypt-den">{t('encryptNewDen')}</div>
